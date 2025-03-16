@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://markbeachill.github.io/site02/sitemap.xml
