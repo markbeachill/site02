@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Gist on MyStuff</title>
-    <link>https://markbeachill.github.io/site02/tags/gist/</link>
-    <description>Recent content in Gist on MyStuff</description>
+    <title>Errors on MyStuff</title>
+    <link>https://markbeachill.github.io/site02/categories/errors/</link>
+    <description>Recent content in Errors on MyStuff</description>
     <image>
       <title>MyStuff</title>
       <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
@@ -13,20 +13,13 @@
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markbeachill.github.io/site02/tags/gist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://markbeachill.github.io/site02/categories/errors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt to fix errors</title>
       <link>https://markbeachill.github.io/site02/posts/prompt-fix-errors/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://markbeachill.github.io/site02/posts/prompt-fix-errors/</guid>
       <description>AI prompt to fix errors.</description>
-    </item>
-    <item>
-      <title>Code Syntax Guide</title>
-      <link>https://markbeachill.github.io/site02/posts/code_syntax/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/code_syntax/</guid>
-      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>

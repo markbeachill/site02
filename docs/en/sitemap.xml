@@ -72,15 +72,36 @@
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/tags/code/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/categories/errors/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/tags/gist/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/tags/markdown/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/posts/prompt-fix-errors/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/categories/prompts/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/series/prompts-guide/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markbeachill.github.io/site02/tags/syntax/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/posts/markdown-syntax/</loc>
@@ -113,13 +134,7 @@
     <loc>https://markbeachill.github.io/site02/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/code/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://markbeachill.github.io/site02/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/tags/privacy/</loc>
@@ -129,9 +144,6 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markbeachill.github.io/site02/posts/math-typesetting/</loc>
