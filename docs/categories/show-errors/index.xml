@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Show-Errors on MyStuff</title>
+    <link>http://localhost:1313/site02/categories/show-errors/</link>
+    <description>Recent content in Show-Errors on MyStuff</description>
+    <image>
+      <title>MyStuff</title>
+      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
+      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site02/categories/show-errors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt to show errors - UK English</title>
+      <link>http://localhost:1313/site02/posts/prompt-show-errors/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site02/posts/prompt-show-errors/</guid>
+      <description>Prompt to show errors (UK English)</description>
+    </item>
+    <item>
+      <title>Prompt to show errors - US English</title>
+      <link>http://localhost:1313/site02/posts/prompt-show-errors-us/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site02/posts/prompt-show-errors-us/</guid>
+      <description>Prompt to show errors (US English)</description>
+    </item>
+  </channel>
+</rss>

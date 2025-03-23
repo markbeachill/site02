@@ -2,181 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/categories/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/tags/markdown/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/papermod-faq/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/papermod-icons/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/papermod-variables/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/docs/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://markbeachill.github.io/site02/fr/"
+                href="http://localhost:1313/site02/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://markbeachill.github.io/site02/fa/"
+                href="http://localhost:1313/site02/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markbeachill.github.io/site02/"
+                href="http://localhost:1313/site02/"
                 />
   </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/posts/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/posts/prompt-show-errors/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/categories/prompts/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/series/prompts-guide/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/series/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/categories/show-errors/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/tags/syntax/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/tags/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/categories/uk-english/</loc>
+    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/site02/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://markbeachill.github.io/site02/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://markbeachill.github.io/site02/fa/posts/"
+                href="http://localhost:1313/site02/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markbeachill.github.io/site02/posts/"
+                href="http://localhost:1313/site02/archives/"
                 />
   </url><url>
-    <loc>https://markbeachill.github.io/site02/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/categories/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/code/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/categories/errors/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/gist/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/markdown/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/prompt-fix-errors/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/categories/prompts/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/series/prompts-guide/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/syntax/</loc>
-    <lastmod>2019-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/site02/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://markbeachill.github.io/site02/fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://markbeachill.github.io/site02/fa/posts/markdown-syntax/"
+                href="http://localhost:1313/site02/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://markbeachill.github.io/site02/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/code_syntax/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://markbeachill.github.io/site02/fr/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://markbeachill.github.io/site02/archives/"
-                />
-  </url><url>
-    <loc>https://markbeachill.github.io/site02/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://markbeachill.github.io/site02/fr/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://markbeachill.github.io/site02/search/"
+                href="http://localhost:1313/site02/search/"
                 />
   </url>
 </urlset>

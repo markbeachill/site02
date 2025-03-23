@@ -2,100 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on MyStuff</title>
-    <link>https://markbeachill.github.io/site02/tags/</link>
+    <link>http://localhost:1313/site02/tags/</link>
     <description>Recent content in Tags on MyStuff</description>
     <image>
       <title>MyStuff</title>
-      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
-      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
+      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
+      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markbeachill.github.io/site02/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Docs</title>
-      <link>https://markbeachill.github.io/site02/tags/docs/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/docs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PaperMod</title>
-      <link>https://markbeachill.github.io/site02/tags/papermod/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/papermod/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>https://markbeachill.github.io/site02/tags/code/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gist</title>
-      <link>https://markbeachill.github.io/site02/tags/gist/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/gist/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site02/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>https://markbeachill.github.io/site02/tags/markdown/</link>
+      <link>http://localhost:1313/site02/tags/markdown/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/markdown/</guid>
+      <guid>http://localhost:1313/site02/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://markbeachill.github.io/site02/tags/syntax/</link>
+      <link>http://localhost:1313/site02/tags/syntax/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/syntax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Css</title>
-      <link>https://markbeachill.github.io/site02/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Html</title>
-      <link>https://markbeachill.github.io/site02/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Themes</title>
-      <link>https://markbeachill.github.io/site02/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>https://markbeachill.github.io/site02/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/privacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shortcodes</title>
-      <link>https://markbeachill.github.io/site02/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Emoji</title>
-      <link>https://markbeachill.github.io/site02/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/tags/emoji/</guid>
+      <guid>http://localhost:1313/site02/tags/syntax/</guid>
       <description></description>
     </item>
   </channel>

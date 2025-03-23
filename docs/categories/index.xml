@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on MyStuff</title>
-    <link>https://markbeachill.github.io/site02/categories/</link>
+    <link>http://localhost:1313/site02/categories/</link>
     <description>Recent content in Categories on MyStuff</description>
     <image>
       <title>MyStuff</title>
-      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
-      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
+      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
+      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markbeachill.github.io/site02/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Errors</title>
-      <link>https://markbeachill.github.io/site02/categories/errors/</link>
-      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/categories/errors/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/site02/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompts</title>
-      <link>https://markbeachill.github.io/site02/categories/prompts/</link>
+      <link>http://localhost:1313/site02/categories/prompts/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/categories/prompts/</guid>
+      <guid>http://localhost:1313/site02/categories/prompts/</guid>
       <description></description>
     </item>
     <item>
-      <title>Syntax</title>
-      <link>https://markbeachill.github.io/site02/categories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/categories/syntax/</guid>
+      <title>Show-Errors</title>
+      <link>http://localhost:1313/site02/categories/show-errors/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site02/categories/show-errors/</guid>
       <description></description>
     </item>
     <item>
-      <title>Themes</title>
-      <link>https://markbeachill.github.io/site02/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/categories/themes/</guid>
+      <title>UK English</title>
+      <link>http://localhost:1313/site02/categories/uk-english/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site02/categories/uk-english/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>US English</title>
+      <link>http://localhost:1313/site02/categories/us-english/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/site02/categories/us-english/</guid>
       <description></description>
     </item>
   </channel>
