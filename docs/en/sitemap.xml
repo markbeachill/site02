@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/site02/categories/</loc>
+    <loc>https://markbeachill.github.io/site02/categories/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/tags/markdown/</loc>
+    <loc>https://markbeachill.github.io/site02/tags/markdown/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/</loc>
+    <loc>https://markbeachill.github.io/site02/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/"
+                href="https://markbeachill.github.io/site02/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/site02/fa/"
+                href="https://markbeachill.github.io/site02/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/"
+                href="https://markbeachill.github.io/site02/"
                 />
   </url><url>
-    <loc>http://localhost:1313/site02/posts/</loc>
+    <loc>https://markbeachill.github.io/site02/posts/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/posts/prompt-show-errors/</loc>
+    <loc>https://markbeachill.github.io/site02/posts/prompt-show-errors/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/categories/prompts/</loc>
+    <loc>https://markbeachill.github.io/site02/categories/prompts/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/series/prompts-guide/</loc>
+    <loc>https://markbeachill.github.io/site02/series/prompts-guide/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/series/</loc>
+    <loc>https://markbeachill.github.io/site02/series/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/categories/show-errors/</loc>
+    <loc>https://markbeachill.github.io/site02/categories/show-errors/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/tags/syntax/</loc>
+    <loc>https://markbeachill.github.io/site02/tags/syntax/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/tags/</loc>
+    <loc>https://markbeachill.github.io/site02/tags/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/categories/uk-english/</loc>
+    <loc>https://markbeachill.github.io/site02/categories/uk-english/</loc>
     <lastmod>2019-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site02/archives/</loc>
+    <loc>https://markbeachill.github.io/site02/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/archives/"
+                href="https://markbeachill.github.io/site02/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/archives/"
+                href="https://markbeachill.github.io/site02/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/site02/search/</loc>
+    <loc>https://markbeachill.github.io/site02/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/search/"
+                href="https://markbeachill.github.io/site02/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/search/"
+                href="https://markbeachill.github.io/site02/search/"
                 />
   </url>
 </urlset>

@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/site02/fr/archives/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/archives/"
+                href="https://markbeachill.github.io/site02/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/archives/"
+                href="https://markbeachill.github.io/site02/fr/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/site02/fr/frcategories/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/frcategories/</loc>
   </url><url>
-    <loc>http://localhost:1313/site02/fr/frseries/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/frseries/</loc>
   </url><url>
-    <loc>http://localhost:1313/site02/fr/frtags/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/frtags/</loc>
   </url><url>
-    <loc>http://localhost:1313/site02/fr/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/"
+                href="https://markbeachill.github.io/site02/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/site02/fa/"
+                href="https://markbeachill.github.io/site02/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/"
+                href="https://markbeachill.github.io/site02/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/site02/fr/search/</loc>
+    <loc>https://markbeachill.github.io/site02/fr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/site02/search/"
+                href="https://markbeachill.github.io/site02/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/site02/fr/search/"
+                href="https://markbeachill.github.io/site02/fr/search/"
                 />
   </url>
 </urlset>
