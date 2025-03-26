@@ -1,9 +1,9 @@
 ---
 author: ["Mark Beachill"]
-title: "Prompt - get feedback on writing to improve clarity and style"
+title: "Prompt - feedback on writing to improve clarity and style"
 date: "2025-03-23"
-description: "Prompt - get feedback on writing to improve clarity and style"
-summary: "Prompt - get feedback on writing to improve clarity and style"
+description: "Prompt - feedback on writing to improve clarity and style"
+summary: "Prompt - feedback on writing to improve clarity and style"
 tags: ["markdown", "syntax" ]
 categories: ["prompts", "show-errors", "UK English"]
 series: ["Prompts Guide"]

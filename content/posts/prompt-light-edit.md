@@ -1,11 +1,11 @@
 ---
 author: ["Mark Beachill"]
-title: "Prompt to provide a light for clairity"
-date: "2019-03-16"
-description: "Prompt to provide a light for clairity"
-summary: "Prompt to provide a light for clairity - that will show the changes for each paragraph."
+title: "Prompt - light edit for clairity"
+date: "2025-03-23"
+description: "Prompt to provide a light edit for clairity"
+summary: "Prompt to provide a light edit for clairity - shows the changes for each paragraph."
 tags: ["markdown", "syntax" ]
-categories: ["prompts", "show-errors", "UK English"]
+categories: ["prompts", "show-errors"]
 series: ["Prompts Guide"]
 ShowToc: true
 TocOpen: true

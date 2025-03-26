@@ -1,11 +1,11 @@
 ---
 author: ["Mark Beachill"]
-title: "Prompt to show and explain errors in your writing"
-date: "2019-03-16"
+title: "Prompt - shows and explain errors in writing"
+date: "2025-03-23"
 description: "Prompt to show and explain errors in your writing"
 summary: "Prompt will show and explain errors in a piece of writing."
 tags: ["markdown", "syntax" ]
-categories: ["prompts", "show-errors", "UK English"]
+categories: ["prompts", "show-errors"]
 series: ["Prompts Guide"]
 ShowToc: true
 TocOpen: true
