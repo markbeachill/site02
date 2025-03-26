@@ -48,7 +48,8 @@ languages:
           url: chatbots/
         - name: Text editor
           url: https://onlinenotepad.org/app
-
+          params:
+            target: _blank
   
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     #params:
