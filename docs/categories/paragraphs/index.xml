@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Paragraphs on AI Writing Prompts</title>
+    <link>https://markbeachill.github.io/site02/categories/paragraphs/</link>
+    <description>Recent content in Paragraphs on AI Writing Prompts</description>
+    <image>
+      <title>AI Writing Prompts</title>
+      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
+      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <copyright>Mark Beachill</copyright>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://markbeachill.github.io/site02/categories/paragraphs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prompt - analyse paragraph topic sentences</title>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</guid>
+      <description>Prompt - analyse paragraph topic sentences</description>
+    </item>
+    <item>
+      <title>Prompt - paragraph summaries and structure feedback</title>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</guid>
+      <description>Prompt - paragraph summaries and structure feedback</description>
+    </item>
+    <item>
+      <title>Prompt - reduce word count</title>
+      <link>https://markbeachill.github.io/site02/posts/post-fewer-words/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-fewer-words/</guid>
+      <description>Prompt - fewer words</description>
+    </item>
+    <item>
+      <title>Prompt - suggestions for expanding the points you make</title>
+      <link>https://markbeachill.github.io/site02/posts/post-expanding-points/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-expanding-points/</guid>
+      <description>Prompt - expanding your paragraphs</description>
+    </item>
+  </channel>
+</rss>

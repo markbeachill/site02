@@ -15,11 +15,25 @@
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://markbeachill.github.io/site02/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prompt - create teaching materials</title>
-      <link>https://markbeachill.github.io/site02/posts/copy-of-prompt-show-errors/</link>
+      <title>Prompt - analyse paragraph topic sentences</title>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/copy-of-prompt-show-errors/</guid>
-      <description>Prompt to show and explain errors in your writing</description>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</guid>
+      <description>Prompt - analyse paragraph topic sentences</description>
+    </item>
+    <item>
+      <title>Prompt - create teaching materials</title>
+      <link>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</guid>
+      <description>Prompt to create teaching materials for a mistakes</description>
+    </item>
+    <item>
+      <title>Prompt - do your paragraphs work?</title>
+      <link>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</guid>
+      <description>Prompt to critically analyse how well paragraphs work</description>
     </item>
     <item>
       <title>Prompt - feedback on writing to improve clarity and style</title>
@@ -36,11 +50,46 @@
       <description>Prompt to provide a light edit for clairity</description>
     </item>
     <item>
+      <title>Prompt - paragraph summaries and structure feedback</title>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</guid>
+      <description>Prompt - paragraph summaries and structure feedback</description>
+    </item>
+    <item>
+      <title>Prompt - reduce word count</title>
+      <link>https://markbeachill.github.io/site02/posts/post-fewer-words/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-fewer-words/</guid>
+      <description>Prompt - fewer words</description>
+    </item>
+    <item>
       <title>Prompt - shows and explain errors in writing</title>
       <link>https://markbeachill.github.io/site02/posts/prompt-show-errors/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://markbeachill.github.io/site02/posts/prompt-show-errors/</guid>
       <description>Prompt to show and explain errors in your writing</description>
+    </item>
+    <item>
+      <title>Prompt - suggestions for expanding the points you make</title>
+      <link>https://markbeachill.github.io/site02/posts/post-expanding-points/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/posts/post-expanding-points/</guid>
+      <description>Prompt - expanding your paragraphs</description>
+    </item>
+    <item>
+      <title>Reformatting chatbot output for Word</title>
+      <link>https://markbeachill.github.io/site02/formatting-output/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/formatting-output/</guid>
+      <description>Reformatting chatbot output for Word</description>
+    </item>
+    <item>
+      <title>Using AI as a personal writing tutor</title>
+      <link>https://markbeachill.github.io/site02/introduction/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://markbeachill.github.io/site02/introduction/</guid>
+      <description>Using AI as a personal writing tutor</description>
     </item>
   </channel>
 </rss>
