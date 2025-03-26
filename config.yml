@@ -44,10 +44,63 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: Chatbots
+        - identifier: chatbots
+          name: Chatbots
           url: chatbots/
-        - name: Text editor
+
+        - identifier: ext-cb-chatpt
+          name: ChatGPT
+          url: https://chat.openai.com/
+          parent: chatbots
+          weight: 1
+          params:
+            target: _blank
+        - identifier: ext-cb-claude
+          name: Claude
+          url: https://claude.ai/chat/
+          parent: chatbots
+          weight: 2          
+          params:
+            target: _blank
+        - identifier: ext-cb-grok
+          name: Grok
+          url: https://x.com/i/grok
+          parent: chatbots
+          weight: 3          
+          params:
+            target: _blank
+        - identifier: ext-cb-copilot
+          name: Co-Pil;ot
+          url: https://copilot.microsoft.com/
+          parent: chatbots
+          weight: 4          
+          params:
+            target: _blank
+        - identifier: ext-cb-gemini
+          name: Co-Pilot
+          url: https://gemini.google.com/app
+          parent: chatbots
+          weight: 5          
+          params:
+            target: _blank          
+        - identifier: ext-cb-perplexity
+          name: Perplexity
+          url: https://www.perplexity.ai/
+          parent: chatbots
+          weight: 6          
+          params:
+            target: _blank    
+        - identifier: ext-cb-meta
+          name: Meta
+          url: https://www.meta.ai/
+          parent: chatbots
+          weight: 7          
+          params:
+            target: _blank  
+        - identifier: ext-text-editor
+          name: Text editor
           url: https://onlinenotepad.org/app
+          hrefTargetBlank: true
           params:
             target: _blank
   
