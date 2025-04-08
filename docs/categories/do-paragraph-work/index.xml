@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Do-Paragraph-Work on AI Writing Prompts</title>
-    <link>https://markbeachill.github.io/site02/categories/do-paragraph-work/</link>
+    <link>http://localhost:1313/site02/categories/do-paragraph-work/</link>
     <description>Recent content in Do-Paragraph-Work on AI Writing Prompts</description>
     <image>
       <title>AI Writing Prompts</title>
-      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
-      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
+      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
+      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Mark Beachill</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markbeachill.github.io/site02/categories/do-paragraph-work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site02/categories/do-paragraph-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt - do your paragraphs work?</title>
-      <link>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</link>
+      <link>http://localhost:1313/site02/posts/post-do-paragraphs-work/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</guid>
+      <guid>http://localhost:1313/site02/posts/post-do-paragraphs-work/</guid>
       <description>Prompt to critically analyse how well paragraphs work</description>
     </item>
   </channel>

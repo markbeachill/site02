@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Show-Errors on AI Writing Prompts</title>
-    <link>https://markbeachill.github.io/site02/categories/show-errors/</link>
+    <link>http://localhost:1313/site02/categories/show-errors/</link>
     <description>Recent content in Show-Errors on AI Writing Prompts</description>
     <image>
       <title>AI Writing Prompts</title>
-      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
-      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
+      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
+      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Mark Beachill</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://markbeachill.github.io/site02/categories/show-errors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site02/categories/show-errors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt - create teaching materials</title>
-      <link>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</link>
+      <link>http://localhost:1313/site02/posts/post-create-teaching-materials/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</guid>
+      <guid>http://localhost:1313/site02/posts/post-create-teaching-materials/</guid>
       <description>Prompt to create teaching materials for a mistakes</description>
     </item>
     <item>
       <title>Prompt - feedback on writing to improve clarity and style</title>
-      <link>https://markbeachill.github.io/site02/posts/prompt-feedback-clarity-and-style/</link>
+      <link>http://localhost:1313/site02/posts/prompt-feedback-clarity-and-style/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/prompt-feedback-clarity-and-style/</guid>
+      <guid>http://localhost:1313/site02/posts/prompt-feedback-clarity-and-style/</guid>
       <description>Prompt - feedback on writing to improve clarity and style</description>
     </item>
     <item>
       <title>Prompt - light edit for clairity</title>
-      <link>https://markbeachill.github.io/site02/posts/prompt-light-edit/</link>
+      <link>http://localhost:1313/site02/posts/prompt-light-edit/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/prompt-light-edit/</guid>
+      <guid>http://localhost:1313/site02/posts/prompt-light-edit/</guid>
       <description>Prompt to provide a light edit for clairity</description>
     </item>
     <item>
       <title>Prompt - shows and explain errors in writing</title>
-      <link>https://markbeachill.github.io/site02/posts/prompt-show-errors/</link>
+      <link>http://localhost:1313/site02/posts/prompt-show-errors/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://markbeachill.github.io/site02/posts/prompt-show-errors/</guid>
+      <guid>http://localhost:1313/site02/posts/prompt-show-errors/</guid>
       <description>Prompt to show and explain errors in your writing</description>
     </item>
   </channel>

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://markbeachill.github.io/site02/sitemap.xml
+Sitemap: http://localhost:1313/site02/sitemap.xml
