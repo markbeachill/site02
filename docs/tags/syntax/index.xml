@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Syntax on AI Writing Prompts</title>
-    <link>http://localhost:1313/site02/tags/syntax/</link>
+    <link>https://markbeachill.github.io/site02/tags/syntax/</link>
     <description>Recent content in Syntax on AI Writing Prompts</description>
     <image>
       <title>AI Writing Prompts</title>
-      <url>http://localhost:1313/site02/images/papermod-cover.png</url>
-      <link>http://localhost:1313/site02/images/papermod-cover.png</link>
+      <url>https://markbeachill.github.io/site02/images/papermod-cover.png</url>
+      <link>https://markbeachill.github.io/site02/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Mark Beachill</copyright>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/site02/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://markbeachill.github.io/site02/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prompt - analyse paragraph topic sentences</title>
-      <link>http://localhost:1313/site02/posts/post-paragraph-topic-sentences/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-paragraph-topic-sentences/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-topic-sentences/</guid>
       <description>Prompt - analyse paragraph topic sentences</description>
     </item>
     <item>
       <title>Prompt - create teaching materials</title>
-      <link>http://localhost:1313/site02/posts/post-create-teaching-materials/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-create-teaching-materials/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-create-teaching-materials/</guid>
       <description>Prompt to create teaching materials for a mistakes</description>
     </item>
     <item>
       <title>Prompt - do your paragraphs work?</title>
-      <link>http://localhost:1313/site02/posts/post-do-paragraphs-work/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-do-paragraphs-work/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-do-paragraphs-work/</guid>
       <description>Prompt to critically analyse how well paragraphs work</description>
     </item>
     <item>
       <title>Prompt - feedback on writing to improve clarity and style</title>
-      <link>http://localhost:1313/site02/posts/prompt-feedback-clarity-and-style/</link>
+      <link>https://markbeachill.github.io/site02/posts/prompt-feedback-clarity-and-style/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/prompt-feedback-clarity-and-style/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/prompt-feedback-clarity-and-style/</guid>
       <description>Prompt - feedback on writing to improve clarity and style</description>
     </item>
     <item>
       <title>Prompt - light edit for clairity</title>
-      <link>http://localhost:1313/site02/posts/prompt-light-edit/</link>
+      <link>https://markbeachill.github.io/site02/posts/prompt-light-edit/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/prompt-light-edit/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/prompt-light-edit/</guid>
       <description>Prompt to provide a light edit for clairity</description>
     </item>
     <item>
       <title>Prompt - paragraph summaries and structure feedback</title>
-      <link>http://localhost:1313/site02/posts/post-paragraph-summaries/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-paragraph-summaries/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-paragraph-summaries/</guid>
       <description>Prompt - paragraph summaries and structure feedback</description>
     </item>
     <item>
       <title>Prompt - shows and explain errors in writing</title>
-      <link>http://localhost:1313/site02/posts/prompt-show-errors/</link>
+      <link>https://markbeachill.github.io/site02/posts/prompt-show-errors/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/prompt-show-errors/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/prompt-show-errors/</guid>
       <description>Prompt to show and explain errors in your writing</description>
     </item>
     <item>
       <title>Prompt - suggestions for expanding the points you make</title>
-      <link>http://localhost:1313/site02/posts/post-expanding-points/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-expanding-points/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-expanding-points/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-expanding-points/</guid>
       <description>Prompt - expanding your paragraphs</description>
     </item>
     <item>
       <title>Reformatting chatbot output for Word</title>
-      <link>http://localhost:1313/site02/formatting-output/</link>
+      <link>https://markbeachill.github.io/site02/formatting-output/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/formatting-output/</guid>
+      <guid>https://markbeachill.github.io/site02/formatting-output/</guid>
       <description>Reformatting chatbot output for Word</description>
     </item>
     <item>
       <title>Using AI as a personal writing tutor</title>
-      <link>http://localhost:1313/site02/introduction/</link>
+      <link>https://markbeachill.github.io/site02/introduction/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/introduction/</guid>
+      <guid>https://markbeachill.github.io/site02/introduction/</guid>
       <description>Using AI as a personal writing tutor</description>
     </item>
     <item>
       <title>Prompt - reduce word count</title>
-      <link>http://localhost:1313/site02/posts/post-fewer-words/</link>
+      <link>https://markbeachill.github.io/site02/posts/post-fewer-words/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site02/posts/post-fewer-words/</guid>
+      <guid>https://markbeachill.github.io/site02/posts/post-fewer-words/</guid>
       <description>Prompt - fewer words</description>
     </item>
   </channel>
